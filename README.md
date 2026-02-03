@@ -1,4 +1,4 @@
-# Solved Solutions for Projects in Kaggle
+# Solutions for different problems in Kaggle
 
 ## Install requirements
 
